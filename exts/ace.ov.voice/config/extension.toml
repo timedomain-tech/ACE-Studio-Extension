@@ -1,0 +1,35 @@
+[package]
+version = "1.0.0"
+title = "ACE OV VOICE"
+description="ACE Studio Voice is a convenient tool for singing synthesis on the Omniverse platform."
+repository = ""
+category = "Audio"
+authors = ["timedomAIn"]
+icon = "data/logo.png"
+preview_image = "data/preview.png"
+keywords = ["ace", "ov", "voice"]
+
+[dependencies]
+"omni.kit.uiapp" = {}
+"omni.audio2face.player_deps" = {}
+
+[python.pipapi]
+# List of additional directories with pip achives to be passed into pip using ``--find-links`` arg.
+# Relative paths are relative to extension root. Tokens can be used.
+archiveDirs = ["path/to/pip_archive"]
+
+# Commands passed to pip install before extension gets enabled. Can also contain flags, like `--upgrade`, `--no--index`, etc.
+# Refer to: https://pip.pypa.io/en/stable/reference/pip_install/#requirements-file-format
+requirements = [
+    "requests"
+]
+
+# Main python module this extension provides, it will be publicly available as "import ace.ov.voice".
+[[python.module]]
+name = "ace.ov.voice"
+
+[[test]]
+# Extra dependencies only to be used during test run
+dependencies = [
+    "omni.kit.ui_test" # UI testing extension
+]
