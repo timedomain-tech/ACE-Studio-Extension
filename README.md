@@ -25,7 +25,7 @@ Finally, you can search `omni.ace.ov` and enable this extension.
 > **Note**:
 > the extension path to add is: `<your-path-to-omni-ace-ov>/exts`
 
-![add_extension](./image/picture_6.jpg)
+![add_extension](./image/picture_6.png)
 
 3. **[We also need to add some dependencies]** Click the  <img src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png?v8" width="18"> button and add absolute extension path to `Extension Registries`.
 
