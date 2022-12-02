@@ -12,6 +12,7 @@ keywords = ["ace", "ov", "voice"]
 [dependencies]
 "omni.kit.uiapp" = {}
 "omni.audio2face.player_deps" = {}
+"omni.kit.window.filepicker" = {}
 
 [python.pipapi]
 # List of additional directories with pip achives to be passed into pip using ``--find-links`` arg.

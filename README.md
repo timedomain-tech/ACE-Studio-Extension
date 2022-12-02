@@ -20,10 +20,10 @@ TimedomAIn is a technology company that focuses on AI. We aim to make AI meet th
 
 2. **[Add this extension to Omniverse]** Click the  <img src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png?v8" width="18"> button and add absolute extension path to `Extension Search Paths`.
 
-Finally, you can search `omni.ace.ov` and enable this extension.
+Finally, you can search `ace.ov.voice` and enable this extension.
 
 > **Note**:
-> the extension path to add is: `<your-path-to-omni-ace-ov>/exts`
+> the extension path to add is: `<your-path-to-ace-ov-voice>/exts`
 
 ![add_extension](./image/picture_6.png)
 
