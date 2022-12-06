@@ -8,6 +8,8 @@ authors = ["timedomAIn"]
 icon = "data/logo.png"
 preview_image = "data/preview.png"
 keywords = ["ace", "ov", "voice"]
+changelog = "docs/CHANGELOG.md"
+readme  = "docs/README.md"
 
 [dependencies]
 "omni.kit.uiapp" = {}

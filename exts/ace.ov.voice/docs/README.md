@@ -1,3 +1,5 @@
-# Simple UI Extension Template
+# ACE Studio Extension
 
-The simplest python extension example. Use it as a starting point for your extensions.
+ACE Studio Extension is a convenient tool for singing synthesis on the Omniverse platform.
+
+
