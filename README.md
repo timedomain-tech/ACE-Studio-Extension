@@ -1,5 +1,5 @@
 # Abstract
-ACE Studio Extension is a convenient tool for singing synthesis on the Omniverse platform.
+Timedomain AI Singer Omniverse Extension is a convenient tool for singing synthesis on the Omniverse platform.
 
 FEATURES: 
 
